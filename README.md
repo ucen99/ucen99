@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ucen99
 - 👀 I’m interested in IT developers
-- 🌱 I’m currently learning in CRY{TO
+- 🌱 I’m currently learning in CRYPTO
 - 💞️ I’m looking to collaborate on ALEO
 - 📫 How to reach me @Almeysharania
 
